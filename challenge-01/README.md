@@ -26,10 +26,10 @@ var souninja = true;
 var comida = ['arroz','feijao','ovo'];
 
 // Digite a instrução que imprime o valor de 'feijao', que está na variável `comida`.
-console.log(comida[1]); 
+comida[1]; 
 
 // Digite o código que verifica se a variável `soma' é igual a variável `myvar` (testando também o tipo).
-return myvar === soma;
+myvar === soma;
 
 // Digite o código que verifica se a variável `myvar` é menor ou igual à variável `soma`.
 myvar <= soma;
